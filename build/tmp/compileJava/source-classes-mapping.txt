@@ -1,4 +1,4 @@
+task2/consoleMenu.java
+ task2.consoleMenu
 Main.java
  Main
-test.java
- CheckEvenOdd

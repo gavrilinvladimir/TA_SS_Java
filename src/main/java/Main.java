@@ -30,7 +30,7 @@ class Main {
             }
         } else {
             System.out.println("Вы ввели неверный интервал");
-            // System.exit(0);
+            System.exit(0);
         }
     }
 
